@@ -1,0 +1,26 @@
+body{
+  text-align: center;
+  background-image: linear-gradient(red, yellow, green);
+}
+
+img{
+  width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+    .menu{
+        list-style: none;
+        font-family: cursive;
+        float:right;
+        top: 10px;
+        right;30px;
+        cursor: pointer;
+        color: black;
+    }
+.h1{
+font-family: 'Baloo Bhaijaan 2', cursive;
+}
+
+.link{
+    display: inline;
+}
